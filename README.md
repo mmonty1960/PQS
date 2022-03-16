@@ -5,7 +5,7 @@ The software was developed in the framework of the SolarPACES project "Character
 
 The software offers several methods (#0, #1,...,#5) for correcting hemispherical reflectance spectra of particles for the presence of the transparent window used to confine particles in a box.
 
-The different methods are obtained by the general optical model of the window-particles system under specific hypothesis
+The different methods are obtained by the general optical model of the window-particles system under specific hypothesis. Please refer to the SolarPACES guidelines for more information
 
 QUICK USER GUIDE:
 
