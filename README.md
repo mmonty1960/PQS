@@ -28,5 +28,6 @@ QUICK USER GUIDE:
 6) If the method is change, by pushing "Calculate & Plot R_particle" the old curves are mantained. Push "Refresh plot" to show only the new.
 
 Please Note:
-A) The ZeroLine is differently used in UV-VIS-NIR and IR cases: in the first it is just substracted to Rw because the signal is due to the cap covering the port; differently in IR the ZeroLine signal is due to the beam tails, so it is subtracted at all the spectra
-B) In UV-VIS-NIR the baseline is recorded with the reference on the port. Conversely for IR, for each kind of measurement a new baseline is set by sending the beam onto the internal of the sphere to correct for the substitution error 
+A) The ZeroLine is differently used in UV-VIS-NIR and IR cases: in the first it is just substracted to Rw because the signal is due to the cap covering the port; differently in IR the ZeroLine signal is due to the beam tails, so it is subtracted at all the spectra.
+B) In UV-VIS-NIR the baseline is recorded with the reference on the port. Conversely for IR, for each kind of measurement a new baseline is set by sending the beam onto the internal of the sphere to correct for the substitution error.
+C) In the file the spectrum values must be stored in two columns, wavelength-value  R-value; all the lines before these two columns are automatically skipped
